@@ -1,0 +1,6 @@
+{
+  "name": "session-strip",
+  "version": "0.1.0",
+  "description": "A band above the prompt for switching between your recent sessions.",
+  "types": "./types/index.d.ts"
+}
